@@ -1,0 +1,36 @@
+body {
+   font-family: 'Sora', sans-serif;
+    font-size: 1rem; /* Taille par défaut */
+    font-weight: 300;
+} 
+
+.hero {
+    background-color:#0F0F0F;
+    text-align: center;
+    padding: 40px 0px 60px 0px;
+    margin: 0px 60px 0px 60px;
+    border-radius: 20px;
+}
+
+.hero h1 {
+    color:#FFFFFF;
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+.hero p {
+    color:#FFFFFF;
+    max-width: 440px;
+    margin: auto;
+    padding: 0px 0px 40px 0px;
+}
+
+.hero a {
+    text-decoration: none;
+    background-color: #FFFFFF;
+    color: #0F0F0F;
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: 600;
+    padding: 10px 100px 10px 100px;
+}
